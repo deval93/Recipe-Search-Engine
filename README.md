@@ -1,5 +1,7 @@
 # Recipe-Search-Engine
 
+<a href="https://github.com/deval93/Recipe-Search-Engine/blob/master/apk/app-debug.apk" target="_blank">Download APK</a>
+
 ## Screenshots
 
 <img height="500px" src="https://github.com/deval93/Recipe-Search-Engine/blob/master/screenshots/1.jpg">

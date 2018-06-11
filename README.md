@@ -1,6 +1,6 @@
 # Recipe-Search-Engine
 
-<a href="https://github.com/deval93/Recipe-Search-Engine/blob/master/apk/app-debug.apk">Download APK</a>
+<a href="https://github.com/deval93/Recipe-Search-Engine/blob/master/apk/app-debug.apk" download="Recipes Search Engine">Download APK</a>
 
 ## Screenshots
 
